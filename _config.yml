@@ -22,16 +22,16 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
+  mail: 'mailto:odiariodebordopodcast@gmail.com'
   weixin: '' # 你的微信二维码存放的地址
   qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: ''
   Codepen: ''
   weibo: ''
-  instagram: ''
-  Twitter: ''
+  instagram: 'https://www.instagram.com/odiariodebordopodcast/'
+  Twitter: 'https://www.instagram.com/diariopod/'
   Dribbble: ''
-  Facebook: ''
+  Facebook: 'https://www.facebook.com/odiariobordopodcast/'
   Google: ''
   zhihu: ''
   juejin: ''
