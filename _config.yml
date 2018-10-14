@@ -6,7 +6,7 @@ url: 'www.odiariodebordo.com.br' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
-  Ouça o podcast: 'http://odiariodebordo.com.br/2018/10/13/podcast.html'
+  Ouça o podcast: '/'
   Sobre nós: '/about.html'
 
 # 博主
