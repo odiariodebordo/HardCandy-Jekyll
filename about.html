@@ -22,7 +22,7 @@ description:
         {% endif %}
         {% if site.SNS %}
           {% for sns-icon in site.SNS-icon %}
-            <a href="{{ sns-icon[1] }}" title="{{ sns-icon[0] }}">
+            <a href="{{ sns-icon[1] }}" target="_blank" title="{{ sns-icon[0] }}">
               <svg class="icon" aria-hidden="true">
                 <use xlink:href="#icon-{{ sns-icon[0] }}"></use>
               </svg>
@@ -33,7 +33,7 @@ description:
       <li class="fadeInUp animated">
       {% if site.tags.size>0 %}
           {% for tag in site.tags %}
-          <a href="tags.html#{{ tag[0] }}" class="tag">{{ tag[0]}}</a>
+          <a href="tags.html#{{ tag[0] }}" target="_blank" class="tag">{{ tag[0]}}</a>
           {% endfor %}
       {% endif %}
       </li>
