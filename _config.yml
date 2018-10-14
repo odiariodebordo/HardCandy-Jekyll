@@ -16,20 +16,16 @@ NickName: 'Diário de Bordo'
 webtitle: 'Diário de Bordo'
 bio: 'Discutindo pautas sérias em uma mesa de bar com o intuito de espalhar diversão, informação e cultura de forma fácil e idiota.'
 about: true
-aboutyou: 'your introduction'
+aboutyou: 'Quer ser o primeiro quando um episódio sair ou até mesmo nos mandar aquele email maroto? É só nos seguir nas redes so redes sociais abaixo! :)'
 portraits: '/assets/P382GAb.png' # your portraits image file path
 
 # SNS
 SNS: true
-SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
+SNS-icon: #['Facebook', 'Twitter', 'instagram']
   mail: 'mailto:odiariodebordopodcast@gmail.com'
-  weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   instagram: 'https://www.instagram.com/odiariodebordopodcast/'
   Twitter: 'https://www.instagram.com/diariopod/'
   Facebook: 'https://www.facebook.com/odiariobordopodcast/'
-  Google: ''
-  twitch: ''
 
 # 分页
 paginate: 2
