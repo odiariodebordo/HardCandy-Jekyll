@@ -17,7 +17,7 @@ webtitle: 'Diário de Bordo'
 bio: 'your awesome bio'
 about: true
 aboutyou: 'your introduction'
-portraits: 'https://imgur.com/a/tZPM7' # your portraits image file path
+portraits: '/assets/P382GAb.png' # your portraits image file path
 
 # SNS
 SNS: true
@@ -25,16 +25,10 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   mail: 'mailto:odiariodebordopodcast@gmail.com'
   weixin: '' # 你的微信二维码存放的地址
   qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
-  Codepen: ''
-  weibo: ''
   instagram: 'https://www.instagram.com/odiariodebordopodcast/'
   Twitter: 'https://www.instagram.com/diariopod/'
-  Dribbble: ''
   Facebook: 'https://www.facebook.com/odiariobordopodcast/'
   Google: ''
-  zhihu: ''
-  juejin: ''
   twitch: ''
 
 # 分页
@@ -77,7 +71,7 @@ social-share: true
 social-share-items: [ 'facebook', 'twitter']
 
 # 百度统计 在baidu-url里填写自己相关的url代码
-baidu: true
+baidu: false
 baidu-url: ''
 # 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
 google: false
