@@ -26,7 +26,6 @@ SNS-icon: #['Facebook', 'Twitter', 'instagram']
   instagram: 'https://www.instagram.com/odiariodebordopodcast/'
   Twitter: 'https://www.twitter.com/diariopod/'
   Facebook: 'https://www.facebook.com/odiariobordopodcast/'
-  Spotify: 'spotify:show:17QdgBhxP5eUa1vcwwKd33'
 
 # 分页
 paginate: 2
@@ -65,7 +64,7 @@ client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 social-share: true
-social-share-items: [ 'facebook', 'twitter', 'spotify']
+social-share-items: [ 'facebook', 'twitter']
 
 # 百度统计 在baidu-url里填写自己相关的url代码
 baidu: false
