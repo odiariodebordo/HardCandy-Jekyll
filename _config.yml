@@ -26,6 +26,7 @@ SNS-icon: #['Facebook', 'Twitter', 'instagram']
   instagram: 'https://www.instagram.com/odiariodebordopodcast/'
   Twitter: 'https://www.twitter.com/diariopod/'
   Facebook: 'https://www.facebook.com/odiariobordopodcast/'
+  Spotify: 'spotify:show:17QdgBhxP5eUa1vcwwKd33'
 
 # 分页
 paginate: 2
